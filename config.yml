@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: My Status Page
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -159,7 +159,7 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Print Spooler
-      description: Print Spooler Service on 9DS4N93
+      description: Print Spooler Service on Austin''s PC
       category: Uncategorized
   #  - name: Backup Gateway
   #    category: North Coast
@@ -287,7 +287,7 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: logo.png
+  logo: smc-logo.png
 
   # This is the description that is shown
   # on the footer and meta tags.
