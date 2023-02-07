@@ -4,7 +4,6 @@ date: 2023-02-06 13:55:00
 resolved: false
 resolvedWhen:
 severity: down
-informational: true
 affected:
   - Print Spooler
 section: issue
